@@ -1,0 +1,16 @@
+C:\Users\Olivia\workspace\csharp\grimoire\bin\Debug\net5.0\Grimoire.exe
+C:\Users\Olivia\workspace\csharp\grimoire\bin\Debug\net5.0\Grimoire.deps.json
+C:\Users\Olivia\workspace\csharp\grimoire\bin\Debug\net5.0\Grimoire.runtimeconfig.json
+C:\Users\Olivia\workspace\csharp\grimoire\bin\Debug\net5.0\Grimoire.runtimeconfig.dev.json
+C:\Users\Olivia\workspace\csharp\grimoire\bin\Debug\net5.0\Grimoire.dll
+C:\Users\Olivia\workspace\csharp\grimoire\bin\Debug\net5.0\Grimoire.pdb
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\Grimoire.csproj.AssemblyReference.cache
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\Grimoire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\Grimoire.AssemblyInfoInputs.cache
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\Grimoire.AssemblyInfo.cs
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\Grimoire.csproj.CoreCompileInputs.cache
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\Grimoire.dll
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\refint\Grimoire.dll
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\Grimoire.pdb
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\Grimoire.genruntimeconfig.cache
+C:\Users\Olivia\workspace\csharp\grimoire\obj\Debug\net5.0\ref\Grimoire.dll

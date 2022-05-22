@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0uykHBrER1ajw6SEVth9KmVLVRTEWLnyolI1SlW+6VttzpJ15HZHHGgK7IRs1tEsIf2h9dh83CWpPnhszhhMXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Olivia\\workspace\\csharp\\grimoire\\Grimoire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olivia\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Olivia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Olivia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Olivia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
